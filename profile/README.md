@@ -1,4 +1,4 @@
-![logo2](https://github.com/user-attachments/assets/7fb25c10-703d-4361-af13-732aec1f7ace)
+<img width="937" alt="survon-art-1" src="https://github.com/user-attachments/assets/1548e118-9eea-4222-860e-33298c19f948" />
 
 
 # Welcome to the Survon Project!
